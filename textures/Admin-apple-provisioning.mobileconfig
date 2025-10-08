@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>CalDAVAccountDescription</key>
+			<string>Storage Share</string>
+			<key>CalDAVHostName</key>
+			<string>nx59321.your-storageshare.de</string>
+			<key>CalDAVUsername</key>
+			<string>Admin</string>
+			<key>CalDAVUseSSL</key>
+			<true/>
+			<key>CalDAVPort</key>
+			<integer>443</integer>
+			<key>PayloadDescription</key>
+			<string>Ein CalDAV-Konto einrichten</string>
+			<key>PayloadDisplayName</key>
+			<string>Storage Share CalDAV</string>
+			<key>PayloadIdentifier</key>
+			<string>de.your-storageshare.nx59321.eea99213-fd04-41f3-968b-382c6b290542</string>
+			<key>PayloadType</key>
+			<string>com.apple.caldav.account</string>
+			<key>PayloadUUID</key>
+			<string>eea99213-fd04-41f3-968b-382c6b290542</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>CardDAVAccountDescription</key>
+			<string>Storage Share</string>
+			<key>CardDAVHostName</key>
+			<string>nx59321.your-storageshare.de</string>
+			<key>CardDAVUsername</key>
+			<string>Admin</string>
+			<key>CardDAVUseSSL</key>
+			<true/>
+			<key>CardDAVPort</key>
+			<integer>443</integer>
+			<key>PayloadDescription</key>
+			<string>Ein CardDAV-Konto einrichten</string>
+			<key>PayloadDisplayName</key>
+			<string>Storage Share CardDAV</string>
+			<key>PayloadIdentifier</key>
+			<string>de.your-storageshare.nx59321.ca71f68d-6021-4369-be94-54297939b549</string>
+			<key>PayloadType</key>
+			<string>com.apple.carddav.account</string>
+			<key>PayloadUUID</key>
+			<string>ca71f68d-6021-4369-be94-54297939b549</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Storage Share</string>
+	<key>PayloadIdentifier</key>
+	<string>de.your-storageshare.nx59321.478db588-d40e-43c5-94bf-2ff3cc48227c</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>478db588-d40e-43c5-94bf-2ff3cc48227c</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
